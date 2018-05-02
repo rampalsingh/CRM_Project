@@ -15,7 +15,7 @@ public class Rough_Mail {
 
 		String host = "smtp.gmail.com";
 		final String user = "qaaurora1@gmail.com";// change accordingly
-		final String password = "synergy1234";// change accordingly
+		final String password = "energy123";// change accordingly
 
 		String to = "rampal.singh@sts.in";// change accordingly
 		String cc = "vishal.patel@sts.in";// change accordingly
