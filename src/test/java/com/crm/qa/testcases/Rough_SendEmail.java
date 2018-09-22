@@ -21,7 +21,7 @@ public class Rough_SendEmail {
 		properties.setProperty("mail.smtp.host", host);
 		Session session = Session.getDefaultInstance(properties);
 
-		// compose the message
+		// compose the messa
 		try {
 			MimeMessage message = new MimeMessage(session);
 			message.setFrom(new InternetAddress(from));
