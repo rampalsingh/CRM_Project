@@ -1,0 +1,5 @@
+[INFO ] 2018-09-22 18:06:09.745 [main] Log4jDemo - This is Information
+[ERROR] 2018-09-22 18:06:09.751 [main] Log4jDemo - This is Error
+[FATAL] 2018-09-22 18:06:09.752 [main] Log4jDemo - This is Fatal
+[WARN ] 2018-09-22 18:06:09.752 [main] Log4jDemo - This is Waarning
+
