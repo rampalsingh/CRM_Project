@@ -3,3 +3,8 @@
 [FATAL] 2018-09-22 18:06:09.752 [main] Log4jDemo - This is Fatal
 [WARN ] 2018-09-22 18:06:09.752 [main] Log4jDemo - This is Waarning
 
+[TRACE] 2018-09-22 18:26:23.144 [main] Log4jDemo - This is trace message
+[INFO ] 2018-09-22 18:26:23.147 [main] Log4jDemo - This is Information
+[ERROR] 2018-09-22 18:26:23.147 [main] Log4jDemo - This is Error
+[FATAL] 2018-09-22 18:26:23.148 [main] Log4jDemo - This is Fatal
+[WARN ] 2018-09-22 18:26:23.148 [main] Log4jDemo - This is Waarning
