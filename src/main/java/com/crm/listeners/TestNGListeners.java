@@ -1,17 +1,17 @@
-package com.crm.listners;
+package com.crm.listeners;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class TestNGListners implements ITestListener {
+public class TestNGListeners implements ITestListener {
 
 	public void onTestStart(ITestResult result) {
-		System.out.println("Test Started : " + result.getName());
+		System.out.println("\nTest Started : " + result.getName());
 	}
 
 	public void onTestSuccess(ITestResult result) {
-		System.out.println("Test Success : " + result.getName());
+		System.out.println("::::::::::::::Test Success : " + result.getName());
 
 	}
 
