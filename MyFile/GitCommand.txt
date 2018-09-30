@@ -1,1 +1,8 @@
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+git init
+git clone /path/to/repository
+git add *
+git commit -m "Commit message"
+git push origin master
+git status
